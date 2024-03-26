@@ -14,10 +14,10 @@
 </br>
 
 ## TO-DO
-- [X] Add ability to implement Magisk into Google Play Games For PC (Beta).
-- [ ] Add ability to implement Libndk and/or Libhoudini into Google Play Games For PC (Beta).
-- [ ] Add ability to implement proper Google Play Store and Services (replacing the restricted implementations currently avaliable).
-- [ ] Add ability to enable installation from Unknown Sources on the "Retail" (Google Play Games (Beta)) and "Developer" Emulator (Google Play Games Developer Emulator) versions.
+- [X] <h5> Add ability to implement Magisk into Google Play Games For PC (Beta). </h5>
+- [ ] <h5> Add ability to implement Libndk and/or Libhoudini into Google Play Games For PC (Beta). </h5>
+- [ ] <h5> Add ability to implement proper Google Play Store and Services (replacing the restricted implementations currently avaliable). </h5>
+- [ ] <h5> Add ability to enable installation from Unknown Sources on the "Retail" (Google Play Games (Beta)) and "Developer" Emulator (Google Play Games Developer Emulator) versions. </h5>
 
 </br>
 </br>
