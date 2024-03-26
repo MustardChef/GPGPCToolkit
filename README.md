@@ -13,6 +13,15 @@
 </br>
 </br>
 
+## TO-DO
+- [X] Add ability to implement Magisk into Google Play Games For PC (Beta).
+- [ ] Add ability to implement Libndk and/or Libhoudini into Google Play Games For PC (Beta).
+- [ ] Add ability to implement proper Google Play Store and Services (replacing the restricted implementations currently avaliable).
+- [ ] Add ability to enable installation from Unknown Sources on the "Retail" (Google Play Games (Beta)) and "Developer" Emulator (Google Play Games Developer Emulator) versions.
+
+</br>
+</br>
+
 <img align="left" alt="system-information" height="58" src="https://img.icons8.com/fluency/48/system-information.png" width="58"/><h2>Requirements</h2>
 <table>
 <thead>
