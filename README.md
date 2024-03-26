@@ -10,7 +10,10 @@
 
 </br>
 </br>
+</br>
+</br>
 
+<img align="left" alt="system-information" height="58" src="https://img.icons8.com/fluency/48/system-information.png" width="58"/><h2>Requirements</h2>
 <table>
 <thead>
   <tr>
@@ -66,5 +69,10 @@
 </tbody>
 </table>
 
+</br>
+</br>
+
+<img align="left" alt="system-information" height="58" src="https://img.icons8.com/color/96/null/software-installer.png" width="58"/><h2>Installation Guide</h2>
 
 
+### SOON™
