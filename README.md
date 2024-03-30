@@ -15,6 +15,7 @@
 
 ## TO-DO
 - [X] <h5> Add ability to implement Magisk into Google Play Games For PC (Beta). </h5>
+- [X] <h5> Add ability to implement KernelSU into Google Play Games For PC (Beta). </h5>
 - [X] <h5> Add ability to enable Intel Bridge Device/Native Bridge (houdini) into Google Play Games For PC (Beta). </h5>
 - [ ] <h5> Add ability to implement proper Google Play Store and Services (replacing the restricted implementations currently avaliable). </h5>
 - [ ] <h5> Add ability to enable installation from Unknown Sources on the "Retail" (Google Play Games (Beta)) and "Developer" Emulator (Google Play Games Developer Emulator) versions. </h5>
