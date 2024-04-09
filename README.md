@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/MustardChef/MagiskOnGPGFP#downloads"><img src="https://img.shields.io/github/downloads/MustardChef/MagiskOnGPGFP/total?label=Total%20Downloads&amp;style=for-the-badge"/> <a href="https://ko-fi.com/N4N0K08AC"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
-<h1>MagiskOnGPGFP</h1>
-<h3>MagiskOnGPGFP (Windows™ 10 and 11)</h3>
+<h1>MagiskOnGPGPC</h1>
+<h3>MagiskOnGPGPC (Windows™ 10 and 11)</h3>
 <h5>Google Play Games for PC™ (GPGFP) with Magisk</h5>
 </p>
 
