@@ -3,7 +3,15 @@
 <h1><b>GPGPCToolkit<b></h1>
 <h3> A Toolkit for Google Play Games for PC™ </h3>  
 <h5>Enhance your Google Play Games for PC™ (GPGPC) experience!!</h5>
+
+<br/><br/>
+<h3>Features:</h3>
+
+- [ ] **TBD**
+
 </div>
+
+
 
 <br/><br/><br/><br/>
 
