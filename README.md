@@ -31,10 +31,12 @@
 
 ---
 
+<br/>
 
 <details>
 <summary><a href=""><img height="60" src="https://img.icons8.com/color/96/null/software-installer.png" style="float: left;" width="60"/><h1><a href="">   Installation</a></h1></a></summary>
 </details> 
+
 
 <details>
 <summary><a href=""><img height="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-updating-tools-and-material-ecommerce-flaticons-flat-flat-icons.png" style="float: left;" width="60"/><h1><a href="">   Updating</a></h1></a></summary>

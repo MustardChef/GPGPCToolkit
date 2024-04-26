@@ -1,0 +1,70 @@
+name: GPGPCToolkit Bug Report
+description: Something isn't working correctly/expected? Let me know!
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report. The more information you provide, the easier it will be for me to diagnose and fix the issue. Please fill out the following information to the best of your ability.
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: I have read and familiarized myself with the Github Repository <a href='https://github.com/MustardChef/GPGPCToolkit?tab=readme-ov-file'>Readme</a>, <a href=''>FAQ</a> and <a href=''>Troubleshooting Guide</a>.
+          required: true
+        - label: I understand that, if insufficient information or no logs are provided, my issue will be closed without an answer.
+          required: true
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        <b>NOTICE:</b> Issues like "Google Play Games for PC is not installing" or "How do I bypass minimum requirement checks?" will be closed without answer. Neither can we help you with installation issues related to Google Play Games for PC, nor can we help you bypass the minimum requirement checks. 
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug or issue. 
+      description: Provide a detailed description of what issue or bug you are facing, or is not working as expected.
+      placeholder: Provide a detailed description of what issue or bug you are facing, or is not working as expected.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce the bug?
+      description: Describe how to reproduce the issue/behavior. Be as specific as possible and provide as many details as possible.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      placeholder: Please drag and drop complete log file from ``%LOCALAPPDATA%\Google\Play Games\Logs`` or ``%LOCALAPPDATA%\Google\Play Games Developer Emulator\Logs``
+      description: Please drag and drop complete log file from ``%LOCALAPPDATA%\Google\Play Games\Logs`` or ``%LOCALAPPDATA%\Google\Play Games Developer Emulator\Logs``
+    validations:
+      required: true
+  - type: input
+    id: pcspec
+    attributes: 
+      label: PC Specification 
+      description: You can find your PC Specification by searching for msinfo32 in Windows Search and click the top result to open the System Information app. 
+      placeholder: |
+        - OS Name	Microsoft Windows xx Pro
+        - Version	10.0.xxxxx Build xxxxx
+        - Other OS Description 	Not Available
+        - OS Manufacturer	Microsoft Corporation
+        - Processor	AMD Ryzen x xxxxx 12-Core Processor, xxxx Mhz, xx Core(s), xx Logical Processor(s)
+        - Installed Physical Memory (RAM)	xx.x GB
+        - Total Physical Memory	xx.x GB
+        - Virtualisation-based security	Running
+        - A hypervisor has been detected. Features required for Hyper-V will not be displayed.	
+        etc.
+    validations:
+      required: true 
+
+          
