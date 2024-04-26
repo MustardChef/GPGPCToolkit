@@ -48,7 +48,7 @@ body:
       description: Please drag and drop complete log file from ``%LOCALAPPDATA%\Google\Play Games\Logs`` or ``%LOCALAPPDATA%\Google\Play Games Developer Emulator\Logs``
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: pcspec
     attributes: 
       label: PC Specification 
