@@ -4,7 +4,11 @@
 <h3> A Toolkit for Google Play Games for PC™ </h3>  
 <h5>Enhance your Google Play Games for PC™ (GPGPC) experience!!</h5>
 
-<br/><br/>
+<br/>
+<h2>Project Status: Research Phase</h2>
+<br/>
+
+
 
 </div>
 
@@ -18,7 +22,6 @@
 - [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions 
 
 <h3/>
-
 
 <br/><br/><br/><br/>
 
