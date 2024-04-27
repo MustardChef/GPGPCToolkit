@@ -13,7 +13,7 @@
 <h3>
    
 - [X] Root Google Play Games For PC
-- [X] Remove Limitations from Google Play Store
+- [X] Remove App Library Limitations from Google Play Store
 - [X] Spoof Device Model
 
 <h3/>
