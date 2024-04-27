@@ -5,12 +5,18 @@
 <h5>Enhance your Google Play Games for PC™ (GPGPC) experience!!</h5>
 
 <br/><br/>
-<h3>Features:</h3>
-
-- [ ] **TBD**
 
 </div>
 
+<h3>Features:</h3>
+
+<h3>
+   
+- [X] Root Google Play Games For PC
+- [X] Remove Limitations from Google Play Store
+- [X] Spoof Device Model
+
+<h3/>
 
 
 <br/><br/><br/><br/>
