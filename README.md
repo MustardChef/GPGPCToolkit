@@ -5,7 +5,7 @@
 <h5>Enhance your Google Play Games for PC™ (GPGPC) experience!!</h5>
 
 <br/>
-<h2>Project Status: Research Phase</h2>
+<h2>Status: Research Phase</h2>
 <br/>
 
 
