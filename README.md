@@ -15,6 +15,7 @@
 - [X] Root Google Play Games For PC
 - [X] Remove App Library Limitations from Google Play Store
 - [X] Spoof Device Model
+- [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions 
 
 <h3/>
 
