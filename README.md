@@ -11,15 +11,24 @@
 
 
 </div>
-
-<h3>Features:</h3>
+<h3>Features Completed:</h3>
 
 <h3>
    
 - [X] Root Google Play Games For PC
-- [X] Remove App Library Limitations from Google Play Store
+- [X] Remove App Library Limitations from Google Play Store on both Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Spoof Device Model
-- [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions 
+- [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions
+
+</h3>
+
+<h3>To-Do</h3>
+
+<h3>
+   
+- [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
+- [ ] Documentations and installation process
+- [ ] GUI and CLI Wrapper
 
 <h3/>
 
