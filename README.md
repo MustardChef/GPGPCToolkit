@@ -25,6 +25,8 @@
 - [X] Remove App Library Limitations from Google Play Store on both Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Spoof Device Model
 - [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions
+- [X] Set CPU Cores allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
+- [X] Set RAM allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 
 </h3>
 
