@@ -4,13 +4,19 @@
 <h3> A Toolkit for Google Play Games for PC™ </h3>  
 <h5>Enhance your Google Play Games for PC™ (GPGPC) experience!!</h5>
 
-<br/>
-<h2>Status: Research Phase</h2>
-<br/>
 
-
+<br/>
 
 </div>
+
+
+<div align="center">
+<h3> Join the Community: </h3>
+<a href="https://discord.gg/UYPSypWA8M"><img align="centre" src="https://invidget.switchblade.xyz/UYPSypWA8M" style="width: 400px;"/></a>
+</div>
+
+<br/>
+
 <h3>Features Completed:</h3>
 
 <h3>
