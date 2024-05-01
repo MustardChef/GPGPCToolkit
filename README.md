@@ -34,6 +34,7 @@
 
 <h3>
    
+- [X] Change Screen Resolution   
 - [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
 - [ ] Documentations and installation process
 - [ ] GUI and CLI Wrapper
