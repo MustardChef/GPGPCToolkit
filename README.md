@@ -41,6 +41,16 @@
 - [ ] GUI and CLI Wrapper
 
 <h3/>
+   
+<br/>
+
+<h3>No Plans To Work On:</h3>
+
+<h3>
+   
+- Removing/Bypassing System Requirements 
+</h3>
+
 
 <br/><br/><br/><br/>
 
