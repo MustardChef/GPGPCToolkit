@@ -34,7 +34,8 @@
 
 <h3>
    
-- [X] Change Screen Resolution   
+- [X] Change Screen Resolution
+- [X] Create Start Menu Shortcuts for Apps (Icon not included) 
 - [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
 - [ ] Documentations and installation process
 - [ ] GUI and CLI Wrapper
