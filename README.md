@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<h3> Join the Community: </h3>
+<h3> Join our Discord Community: </h3>
 <a href="https://discord.gg/UYPSypWA8M"><img align="centre" src="https://invidget.switchblade.xyz/UYPSypWA8M" style="width: 400px;"/></a>
 </div>
 
@@ -35,7 +35,7 @@
 <h3>To-Do</h3>
 
 <h3>
-   
+- [ ] Preinstalling Magisk Manager   
 - [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
 - [ ] Documentations and installation process
 - [ ] GUI and CLI Wrapper
