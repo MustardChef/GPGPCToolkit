@@ -27,6 +27,8 @@
 - [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions
 - [X] Set CPU Cores allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Set RAM allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
+- [X] Change Screen Resolution
+- [X] Create Start Menu Shortcuts for Apps (ICON MUST BE MANUALLY SET) 
 
 </h3>
 
@@ -34,8 +36,6 @@
 
 <h3>
    
-- [X] Change Screen Resolution
-- [X] Create Start Menu Shortcuts for Apps (Icon not included) 
 - [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
 - [ ] Documentations and installation process
 - [ ] GUI and CLI Wrapper
