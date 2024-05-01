@@ -17,6 +17,10 @@
 
 <br/>
 
+<h2>PROGRESS: 60%</h2>
+
+<br/>
+
 <h3>Features Completed:</h3>
 
 <h3>
