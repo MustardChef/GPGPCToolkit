@@ -35,10 +35,12 @@
 <h3>To-Do</h3>
 
 <h3>
-- [ ] Preinstalling Magisk Manager   
+   
+- [ ] Option to Preinstall Magisk Manager
+- [ ] Option to Preinstall Termux
 - [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
-- [ ] Documentations and installation process
 - [ ] GUI and CLI Wrapper
+- [ ] Documentations and installation process
 
 <h3/>
    
