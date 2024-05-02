@@ -21,7 +21,7 @@
 
 <br/>
 
-<h3>Features Completed:</h3>
+<h3>Features Completed: (Subject to change during development)</h3>
 
 <h3>
    
@@ -31,7 +31,7 @@
 - [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions
 - [X] Set CPU Cores allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Set RAM allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
-- [X] Change Screen Resolution
+- [X] Custom Screen Resolution
 - [X] Create Start Menu Shortcuts for Apps (ICON MUST BE MANUALLY SET) 
 
 </h3>
