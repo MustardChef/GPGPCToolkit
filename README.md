@@ -43,6 +43,7 @@
 - [ ] Option to Preinstall Magisk Manager
 - [ ] Option to Preinstall Termux
 - [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
+- [ ] Move Google Play Games for PC installation to custom location/non-system drive
 - [ ] GUI and CLI Wrapper
 - [ ] Documentations and installation process
 
