@@ -32,7 +32,9 @@
 - [X] Set CPU Cores allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Set RAM allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Custom Screen Resolution
-- [X] Create Start Menu Shortcuts for Apps (ICON MUST BE MANUALLY SET) 
+- [X] Create Start Menu Shortcuts for Apps (ICON MUST BE MANUALLY SET)
+- [X] Move Google Play Games for PC installation to custom location/non-system drive
+
 
 </h3>
 
@@ -42,8 +44,6 @@
    
 - [ ] Option to Preinstall Magisk Manager
 - [ ] Option to Preinstall Termux
-- [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
-- [ ] Move Google Play Games for PC installation to custom location/non-system drive
 - [ ] GUI and CLI Wrapper
 - [ ] Documentations and installation process
 
@@ -51,11 +51,13 @@
    
 <br/>
 
-<h3>No Plans To Work On:</h3>
+<h3>Possible + No Plans To Work On:</h3>
 
 <h3>
    
-- Removing/Bypassing System Requirements 
+- [ ] Removing/Bypassing System Requirements
+- [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
+
 </h3>
 
 
