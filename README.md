@@ -51,7 +51,7 @@
    
 <br/>
 
-<h3>Possible + No Plans To Work On:</h3>
+<h3>No Plans To Work On, Currently:</h3>
 
 <h3>
    
