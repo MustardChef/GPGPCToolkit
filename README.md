@@ -42,8 +42,9 @@
 
 <h3>
    
-- [ ] Option to Preinstall Magisk Manager
-- [ ] Option to Preinstall Termux
+- [ ] Preinstall Magisk Manager due to sideloading limitations
+- [ ] Preinstall Termux due to sideloading limitations
+- [ ] Preinstall GPGPCToolkit Magisk Modules
 - [ ] GUI and CLI Wrapper
 - [ ] Documentations and installation process
 
