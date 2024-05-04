@@ -32,9 +32,9 @@
 - [X] Set CPU Cores allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Set RAM allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
 - [X] Custom Screen Resolution
-- [X] Create Start Menu Shortcuts for Apps (ICON MUST BE MANUALLY SET)
-- [X] Move Google Play Games for PC installation to custom location/non-system drive
-
+- [X] Create Start Menu Shortcuts for Apps (ICONS MUST BE MANUALLY SET)
+- [X] Move Google Play Games for PC installation to custom location/non-system drive/custom drive
+- [X] Modify Emulator Boot Args
 
 </h3>
 
