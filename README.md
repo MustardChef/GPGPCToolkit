@@ -59,6 +59,16 @@
 
 </h3>
 
+<br/>
+
+<h3>Not Possible At The Moment</h3>
+
+<h3> 
+
+- [X] KernelSU
+
+</h3>
+
 
 <br/><br/><br/><br/>
 
