@@ -41,8 +41,7 @@
 <h3>To-Do</h3>
 
 <h3>
-   
-- [ ] Preinstall GPGPCToolkit Magisk Modules
+
 - [ ] GUI and CLI Wrapper
 - [ ] Documentations and installation process
 
