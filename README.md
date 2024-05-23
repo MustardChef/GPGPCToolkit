@@ -17,7 +17,7 @@
 
 <br/>
 
-<h2>PROGRESS: 73%</h2>
+<h2>PROGRESS: 80%</h2>
 
 <br/>
 
