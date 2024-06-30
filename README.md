@@ -15,6 +15,8 @@
 <a href="https://discord.gg/UYPSypWA8M"><img align="centre" src="https://invidget.switchblade.xyz/UYPSypWA8M" style="width: 400px;"/></a>
 </div>
 
+Release Date: 15th July 2024
+
 <br/>
 
 <h2>PROGRESS: 86% (As of 19th June 2024)</h2>
