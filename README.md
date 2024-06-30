@@ -14,8 +14,9 @@
 <h3> Join our Discord Community: </h3>
 <a href="https://discord.gg/UYPSypWA8M"><img align="centre" src="https://invidget.switchblade.xyz/UYPSypWA8M" style="width: 400px;"/></a>
 </div>
+<br/>
 
-Release Date: 15th July 2024
+## Release Date: 15th July 2024
 
 <br/>
 
