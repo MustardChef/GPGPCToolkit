@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://github.com/MustardChef/MagiskOnGPGFP#downloads"><img src="https://img.shields.io/github/downloads/MustardChef/MagiskOnGPGFP/total?label=Total%20Downloads&amp;style=for-the-badge"/> <a href="https://ko-fi.com/N4N0K08AC"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
 <h1><b>GPGPCToolkit<b></h1>
-<h3> A Toolkit for Google Play Games for PC™ </h3>  
-<h5>Enhance your Google Play Games for PC™ (GPGPC) experience!!</h5>
+<h3> A Toolkit for "Google Play Games On PC (GPGPC)™ </h3>  
+<h5>Enhance your "Google Play Games On PC™ (GPGPC)" experience!!</h5>
 
 
 <br/>
@@ -29,14 +29,14 @@
 <h3>
    
 - [X] Root Google Play Games For PC
-- [X] Remove App Library Limitations from Google Play Store on both Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
+- [X] Remove App Library Limitations from Google Play Store on both Google Play Games On PC Beta (retail) and Google Play Games On PC Developer Emulator
 - [X] Spoof Device Model
 - [X] Force enable Libhoudini (Intel Bridge Device) on Retail and Developer versions
-- [X] Set CPU Cores allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
-- [X] Set RAM allocated to the Google Play Games PC Beta (retail) and Google Play Games For PC Developer Emulator
+- [X] Set CPU Cores allocated to the Google Play Games On PC Beta (retail) and Google Play Games On PC Developer Emulator
+- [X] Set RAM allocated to the Google Play Games On PC Beta (retail) and Google Play Games On PC Developer Emulator
 - [X] Custom Screen Resolution
 - [X] Create Start Menu Shortcuts for Apps (ICONS MUST BE MANUALLY SET)
-- [X] Move Google Play Games for PC installation to custom location/non-system drive/custom drive
+- [X] Move Google Play Games On PC installation to custom location/non-system drive/custom drive
 - [X] Modify Emulator Boot Args
 
 </h3>
@@ -57,7 +57,7 @@
 <h3>
    
 - [ ] Removing/Bypassing System Requirements
-- [ ] Remove App Library Restrictions (search and installation) from Google Play Games PC Beta (retail) Launcher
+- [ ] Remove App Library Restrictions (search and installation) from Google Play Games On PC Beta (retail) Launcher
 
 </h3>
 
