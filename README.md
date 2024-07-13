@@ -16,7 +16,7 @@
 </div>
 <br/>
 
-## Release Date: 15th July 2024
+## Release Date: 20th July 2024
 
 <br/>
 
