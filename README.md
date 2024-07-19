@@ -16,11 +16,11 @@
 </div>
 <br/>
 
-## Release Date: 20th July 2024
+## Release Available Soon™
 
 <br/>
 
-<h2>PROGRESS: 93% (As of 06th July 2024)</h2>
+<h2>PROGRESS: 97% (As of 19th July 2024)</h2>
 
 <br/>
 
