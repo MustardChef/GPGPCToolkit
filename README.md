@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2>PROGRESS: 97% (As of 19th July 2024)</h2>
+<h2>PROGRESS: 98% (As of 03rd November 2024)</h2>
 
 <br/>
 
