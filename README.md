@@ -16,7 +16,7 @@
 </div>
 <br/>
 
-## Release Available Soon™
+## Beta Release Soon™
 
 <br/>
 
@@ -38,6 +38,7 @@
 - [X] Create Start Menu Shortcuts for Apps (ICONS MUST BE MANUALLY SET)
 - [X] Move Google Play Games On PC installation to custom location/non-system drive/custom drive
 - [X] Modify Emulator Boot Args
+- [X] Documentations
 
 </h3>
 
@@ -46,7 +47,6 @@
 <h3>
 
 - [ ] GUI and CLI Wrapper
-- [ ] Documentations and installation process
 
 <h3/>
    
