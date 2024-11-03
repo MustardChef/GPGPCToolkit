@@ -25,7 +25,7 @@
 <h2>PROGRESS: 98% (As of 03rd November 2024)</h2>
 
 ### ```Currently working on UI redesign and CLI support.``` 
-### ```Join the Discord if you are would like to help, or if you have any questions.```
+### ```Join the Discord if you would like to help, or if you have any questions.```
 
 ---
 
